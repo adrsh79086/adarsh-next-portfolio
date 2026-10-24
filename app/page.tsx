@@ -559,8 +559,8 @@ function Contact() {
       <Reveal className="contact-side" delay={0.1}>
         <div className="contact-note"><span className="note-star">✳</span><p>Have a project, a role, or just want to say hello?</p><span>MY INBOX IS OPEN</span></div>
         <a className="contact-link" href={`mailto:${email}`}><span><Mail size={18} /></span><div><small>EMAIL</small><b>{email}</b></div><ArrowUpRight size={18} /></a>
-        <a className="contact-link" href="https://linkedin.com/" target="_blank" rel="noreferrer"><span><Linkedin size={18} /></span><div><small>CONNECT</small><b>LinkedIn</b></div><ArrowUpRight size={18} /></a>
-        <a className="contact-link" href="https://github.com/" target="_blank" rel="noreferrer"><span><Github size={18} /></span><div><small>SEE THE CODE</small><b>GitHub</b></div><ArrowUpRight size={18} /></a>
+        <a className="contact-link" href="https://www.linkedin.com/in/adarsh-kumar-39b213200/" target="_blank" rel="noreferrer"><span><Linkedin size={18} /></span><div><small>CONNECT</small><b>LinkedIn</b></div><ArrowUpRight size={18} /></a>
+        <a className="contact-link" href="https://github.com/adrsh79086" target="_blank" rel="noreferrer"><span><Github size={18} /></span><div><small>SEE THE CODE</small><b>GitHub</b></div><ArrowUpRight size={18} /></a>
       </Reveal>
     </section>
   );
