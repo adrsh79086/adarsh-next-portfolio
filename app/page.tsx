@@ -535,7 +535,7 @@ function Experience() {
 
 function Contact() {
   const [copied, setCopied] = useState(false);
-  const email = "adarshkumar@example.com";
+  const email = "adkmr08@gmail.com";
 
   async function copyEmail() {
     try {
